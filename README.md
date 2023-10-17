@@ -16,13 +16,10 @@
 		<div class="secao">
 			<h2>Dados Pessoais</h2>			
 				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
-				  <img src="/home/aluno/Downloads/minhafoto.jpg" alt="photo of Ademir" class="photo"/>
+				  <img src="/home/aluno/Downloads/minhafoto.jpg" alt="photo of Emyliano" class="photo"/>
 				 <span class="given-name">Emyliano Carvalho Costa</span>
 
 				 <a class="email" href="emyliano.carvalho.costa@aluno.ifce.edu.br">emyliano.carvalho.costa@aluno.ifce.edu.br</a>
-                 <a class="email" href="mailto:ademir.mazer.jr@gmail.com">ademir.mazer.jr@gmail.com</a>
-				 <a class="url" href="http://ademir.winponta.com.br">http://ademir.winponta.com.br</a>
-				
 				<div class="adr">
 				  <span class="locality">Boa Viagem</span>
 				  <span class="region">Ceará</span>
